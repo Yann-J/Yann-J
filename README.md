@@ -16,4 +16,4 @@ I love:
 
 ![Metrics](/github-metrics.svg)
 
-![Snake](/dist/github-snake.svg)
+![Snake](/snake/github-snake.svg)
