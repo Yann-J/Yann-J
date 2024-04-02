@@ -10,6 +10,10 @@ I love:
 - 🗺 traveling
 - ...and basically learning anything (currently 🇪🇸 Spanish and blindfolded Rubik's cube!).
 
-📫 https://www.linkedin.com/in/yjouanique/
+📫 <https://www.linkedin.com/in/yjouanique/>
 
 [![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yann-J&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](/github-metrics.svg)
+
+![Snake](/dist/github-snake.svg)
