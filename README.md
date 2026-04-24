@@ -11,6 +11,7 @@ I love:
 - ...and basically learning anything (currently 🇪🇸 Spanish and blindfolded Rubik's cube!).
 
 📫 <https://www.linkedin.com/in/yjouanique/>
+👔 [my resume](https://yann-j.github.io/resume/)
 
 ![Metrics](/github-metrics.svg)
 
